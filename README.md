@@ -1,1 +1,2 @@
 # module-8
+you will develop a customer management system for “GlobalTech Solutions,” a technology consulting firm. You’ll use Python dictionaries to organize customer information and perform data lookups, while also applying basic aggregation functions to analyze the data. This assignment demonstrates how dictionaries provide efficient key-value storage for business data and how aggregation functions help derive insights from collections.
